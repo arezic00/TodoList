@@ -4,4 +4,8 @@ An Android application where a list of checkable items is displayed in a Recycle
 # What I Learned
 * Using the Room library for modeling and accessing a database.
 
-(https://github.com/arezic00/TodoList/blob/master/Screenshot_3.png?raw=true)
+## Screenshot
+
+![Items](Screenshot_3.png?raw=true)
+
+<img src="Screenshot_3.png?raw=true" width="100" />
